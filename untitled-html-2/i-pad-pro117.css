@@ -1,0 +1,94 @@
+.i-pad-pro117-container {
+  min-height: 100vh;
+}
+.i-pad-pro117-i-pad-pro117 {
+  width: 100%;
+  height: 834px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1194px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(18, 212, 255, 1);
+}
+.i-pad-pro117-frame10 {
+  top: 17px;
+  left: 7px;
+  width: 1180px;
+  display: flex;
+  padding: 123px 0;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  justify-content: center;
+  background-color: rgba(251, 229, 30, 1);
+}
+.i-pad-pro117-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.i-pad-pro117-navlink {
+  display: contents;
+}
+.i-pad-pro117-frame11 {
+  top: 547px;
+  left: 266px;
+  width: 663px;
+  height: 174px;
+  display: flex;
+  padding: 29px 0;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 20px;
+  margin-bottom: 0;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.i-pad-pro117-arrowsigniconbackbuttonnavigationsymbolvector11347 {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 10px;
+  margin-bottom: 0;
+}
+.i-pad-pro117-text5 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
